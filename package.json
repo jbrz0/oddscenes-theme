@@ -1,0 +1,21 @@
+{
+  "name": "os-theme",
+  "displayName": "os-theme",
+  "description": "bright and nice",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "odd scenes theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/odd scenes theme-color-theme.json"
+      }
+    ]
+  }
+}
