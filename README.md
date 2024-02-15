@@ -1,12 +1,15 @@
 # os-theme README
 
-## Working with Markdown
+<img src="https://oddscenes.s3.amazonaws.com/covers/os-template.png">
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+High contrast dark theme for VSCode. Includes all UI sections and components.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
+
+- Search in VSCode extensions marketplace
+- Click install
+- `ctrl/cmd + shift + p` -> Preferences: Color Theme
+- Select color theme
 
 ## For more information
 

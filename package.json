@@ -2,6 +2,7 @@
   "name": "os-theme",
   "displayName": "os-theme",
   "description": "bright and nice",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
