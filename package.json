@@ -1,9 +1,14 @@
 {
-  "name": "os-theme",
-  "displayName": "os-theme",
+  "name": "oddscenes-theme",
+  "displayName": "oddscenes-theme",
   "description": "bright and nice",
+  "publisher": "oddscenes-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbrz0/oddscenes-theme.git"
+  },
   "icon": "images/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -13,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "odd scenes theme",
+        "label": "Odd Scenes Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/odd scenes theme-color-theme.json"
+      },
+      {
+        "label": "Odd Scenes Light",
+        "uiTheme": "vs",
+        "path": "./themes/odd scenes theme-light-color-theme.json"
       }
     ]
   }

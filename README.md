@@ -1,8 +1,14 @@
-# os-theme README
+# odd scenes vscode theme
 
-<img src="https://oddscenes.s3.amazonaws.com/covers/os-template.png">
 
-High contrast dark theme for VSCode. Includes all UI sections and components.
+
+High contrast theme for VSCode. Includes all UI sections and components.
+
+### Dark Mode
+<img src="images/odd-scenes-theme-dark.png">
+
+### Light Mode
+<img src="images/odd-scenes-theme-light.png">
 
 ## Installation
 
@@ -16,4 +22,3 @@ High contrast dark theme for VSCode. Includes all UI sections and components.
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
